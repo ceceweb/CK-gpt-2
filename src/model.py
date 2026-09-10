@@ -1,4 +1,4 @@
-#k was here
+#k was here so was C
 import numpy as np
 import tensorflow as tf
 from tensorflow.contrib.training import HParams
